@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Flávio Vinícius</h1>
 <h3 align="center">Passionate about technology and innovation</h3>
 
-- 🔭 I’m currently working on [Pontotel](https://www.pontotel.com.br/)
+- 🔭 I’m currently working on [Dolado](https://www.dolado.com.br/)
 
-- 🌱 I’m currently learning **Python and software architecture**
+- 🌱 I’m currently learning **Software architecture**
 
 - 📝 I regularly write articles on [https://medium.com/@flaviovini](https://medium.com/@flaviovini)
 
