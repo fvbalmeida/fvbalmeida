@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Flávio Vinícius</h1>
 <h3 align="center">Passionate about technology and innovation</h3>
 
-- 🔭 I’m currently working on **Data Mundo**
+- 🔭 I’m currently working on **PinPag**
 
 - 🌱 I’m currently learning **Software architecture**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@flaviovini)
 
-- 💬 Ask me about **SQL, AWS, NodeJS and Python**
+- 💬 Ask me about **Python, NodeJS, SQL, noSQL and AWS**
 
 - 📫 How to reach me **fvbalmeida20@gmail.com**
 
